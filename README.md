@@ -1,7 +1,11 @@
 # Gonzo's Hotel
 
 Description: A simple Django project for ordering food items.
-
+Project timeline:
+   Project Proposal: August 2021
+   Project going on Hold: March 2022
+   Project Resumed on: June 2022
+   Final submission: September 2022
 ## Installation
 
 1. Clone the repository.
